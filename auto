@@ -12,7 +12,7 @@ The main reasons for Automation:
 Accuracy in Test Execution
 Less cost compare to Manual Testing
 Less time consumption
-Easy to maintanince of regression
+Easy to maintanince of regression testcases
 
 Test automation can improve the development process of a software product in many cases. 
 The  automation of tests is initially associated with increased effort, 
@@ -29,13 +29,11 @@ automating repeated web-based administration tasks or Regression suite.
 
 What Selenium 
 
-
-Selenium is a package of various test components which consists of the following three major tools. 
-Each one has a specific role in aiding the development of test automation for a Web application.
+Selenium is a automation framework package for various test components which consists of the following four major tools. 
+Each one has a specific functions in aiding the development of test automation for a Web and mobile application.
 
 1. Selenium IDE – A Firefox extension to record test cases and suites.
 2. Selenium RC – Used to run tests on different browsers and systems with help of server.
 3. Selenium WebDriver - Used to run tests on different browsers and systems without server.
-4. Selenium Grid – Runs multiple instances of Selenium RC at once.
-5. Qualitia and Tellurium – A wrapper for the Selenium engine.
+4. Selenium Grid – Runs multiple instances of Selenium RC/WebDriver at once.
  
