@@ -17,3 +17,24 @@ Easy to maintanince of regression
 Test automation can improve the development process of a software product in many cases. 
 The  automation of tests is initially associated with increased effort, 
 but the related benefits will quickly pay off.
+
+Why Selenium
+
+Selenium is an Open source with more robust automation framework, 
+Selenium is suite used to automate web browsers by using testing frameworks with 
+various program language like Java, Python, Perl, C#, PHP, Ruby. 
+It is also supported in many browsers and platforms. 
+The main purpose of Selenium is to automate testing of web applications and can also be used for
+automating repeated web-based administration tasks or Regression suite.
+
+What Selenium 
+
+
+Selenium is a package of various test components which consists of the following three major tools. 
+Each one has a specific role in aiding the development of test automation for a Web application.
+
+1. Selenium IDE – A Firefox extension to record test cases and suites.
+2. Selenium RC – Used to run tests on different browsers and systems.
+3. Selenium Grid – Runs multiple instances of Selenium RC at once.
+4. Qualitia and Tellurium – A wrapper for the Selenium engine.
+ 
