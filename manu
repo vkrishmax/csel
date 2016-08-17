@@ -1,0 +1,63 @@
+Why Manual Testing?
+
+When an organization spends huge sum of money to professionals for the technical skills they possess
+
+and providing the entire high tech infrastructure to develop their desired product – a (huge) piece of
+
+code in our IT industry, why it spends money to test that one? Don’t the developers provide what the
+
+organization needs to please their customers? Consider the following scenario:
+
+ You are lying in your bed holding mobile at 12:00 A.M waiting to book First Day First Show ticket
+
+of your favorite Star’s movie at the cost of your sleep(and your money obviously). Tickets are
+
+available and you are lucky enough to pick your desired seat and you even succeed in
+
+proceeding with payment. What will you do if the following things happen?
+
+ You paid for your favorite movie but you got ticket for a different one.
+
+ You selected a theatre nearby but you got ticket in a theatre which you never liked.
+
+ You selected a ticket for that weekend but you got it on a Monday morning.
+
+The above scenarios may sound crazy, but that might happen if there wasn’t enough testing happened.
+
+Will you dare to visit that website again? Will you recommend that website to your friends? Don’t you
+
+criticize them on all social media? What will happen to their brand image and reputation?
+
+ That is what a Test Engineer/Testing Team will do – to ensure that organization gets what they
+
+want to satisfy their customers’ expectation.
+
+ So everything getting automated now do organizations still need all this man power only to test
+
+their product? Yes, they need. Not everything can be automated. If Code development takes
+
+more time than expected and you have only very limited time to get that into production will
+
+you still try to prepare an automation script to test that one or you will go ahead and test
+
+manually and confirm that product is ready to hit the market.
+
+ Any product which is new or any new functionality within a product is best tested only by a
+
+human resource, by the end you will not only verify that all requirements are met but you tend
+
+to get the behavior of the new product.
+
+ What is that “behavior” you are expecting from software!! You can try to test that whole
+
+product by an automation tool, but at the end it’s not that tool which is going to use that
+
+working software. It’s YOU. Manual testing provides a live user experience of that product
+
+which can gives more confident to the organization/customer.
+
+ Manual testing helps a resource in gaining more knowledge on what he is working. If he is into
+
+similar kind of product/domain again, he can easily guess where an error would possibly occur,
+
+thus helping him out on a more efficient testing.
