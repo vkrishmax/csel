@@ -34,7 +34,8 @@ Selenium is a package of various test components which consists of the following
 Each one has a specific role in aiding the development of test automation for a Web application.
 
 1. Selenium IDE – A Firefox extension to record test cases and suites.
-2. Selenium RC – Used to run tests on different browsers and systems.
-3. Selenium Grid – Runs multiple instances of Selenium RC at once.
-4. Qualitia and Tellurium – A wrapper for the Selenium engine.
+2. Selenium RC – Used to run tests on different browsers and systems with help of server.
+3. Selenium WebDriver - Used to run tests on different browsers and systems without server.
+4. Selenium Grid – Runs multiple instances of Selenium RC at once.
+5. Qualitia and Tellurium – A wrapper for the Selenium engine.
  
